@@ -1,0 +1,8 @@
+{
+  "name": "create-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LuizFernandesOliveira/create-node-api.git",
+  "author": "LuizFernandesOliveira <luiz.fernandes@academico.ifrn.edu.br>",
+  "license": "MIT",
+}
